@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Muhammedpyz</h1>
-<h3 align="center">Hindistan'dan tutkulu bir ön uç geliştiricisi</h3>
+<h3 align="center">Kendi Kendine Küçük Bir Yazılımcı</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedpyz&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedpyz" /> </p>
 
