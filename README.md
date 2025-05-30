@@ -22,10 +22,10 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammedpyz&theme=github)](https://github.com/Muhammedpyz)
 
 ## 🌐 Sosyal Medya
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammedpyz)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammed-poyraz-46a59426a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/muhammedpyz)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram)](https://instagram.com/muhammed.pyz)
 
 ## 📫 İletişim
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:muhammedpyz466@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-5865F2?style=flat&logo=Telegram)](https://t.me/@Muhammedpyz)
+[![Telegram](https://img.shields.io/badge/-Telegram-5865F2?style=flat&logo=Telegram)](https://t.me/Muhammedpyz)
