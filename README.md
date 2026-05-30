@@ -6,28 +6,6 @@
 [![GitHub Takipçi](https://img.shields.io/github/followers/Muhammedpyz?label=Takipçi&style=social)](https://github.com/Muhammedpyz)
 [![Profil Ziyaretleri](https://komarev.com/ghpvc/?username=Muhammedpyz&color=blue&label=Profil+Ziyaretleri)](https://github.com/Muhammedpyz)
 
----
-
-### ⚙️ Teknoloji & Araçlarım
-Projelerimi hayata geçirirken kullandığım teknolojiler ve araçlar.
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
-</p>
 
 ---
 ## 🌐 Sosyal Medya
