@@ -1,54 +1,57 @@
-<!-- FİNAL VERSİYON 2.0: Sosyal Medya Güncellemesi -->
+<div align="center">
 
-# Merhaba, Ben Muhammed! 👋
-**Yazılım Geliştirici | Python Sever | Sürekli Öğrenen**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=80&lines=Merhaba,+Ben+Muhammed+👋;Yazılım+Geliştirici;Sürekli+Öğrenen;Hoş+Geldiniz!" alt="Typing SVG" />
 
-[![GitHub Takipçi](https://img.shields.io/github/followers/Muhammedpyz?label=Takipçi&style=social)](https://github.com/Muhammedpyz)
-[![Profil Ziyaretleri](https://komarev.com/ghpvc/?username=Muhammedpyz&color=blue&label=Profil+Ziyaretleri)](https://github.com/Muhammedpyz)
+<p align="center">
+  <a href="https://muhammedpyz.github.io">
+    <img src="https://img.shields.io/badge/🌍_Portfolyo_Siteme_Git-050505?style=for-the-badge&logo=googlechrome&logoColor=00FF41" alt="Website" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhammedpyz&color=00FF41&style=for-the-badge&label=PROFIL+ZIYARETLERI" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Muhammedpyz?label=TAKIPCI&style=for-the-badge&color=282a36" alt="Followers" />
+</p>
 
----
-## 🌐 Sosyal Medya
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammed-poyraz-46a59426a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/muhammedpyz)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram)](https://instagram.com/muhammed.pyz)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:muhammedpyz466@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-5865F2?style=flat&logo=Telegram)](https://t.me/Muhammedpyz)
+### 📱 İletişim & Sosyal Ağlar
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammed-poyraz-46a59426a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/muhammedpyz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://instagram.com/muhammed.pyz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-### 📊 GitHub Stats:
-İstatistiklerim, kupalarım ve kodlama alışkanlıklarımın bir özeti.
+<br/>
 
-<!-- 2x2'lik modern istatistik tablosu -->
-<table>
+### 📊 GitHub Analitikleri
+
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h3>My GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Muhammedpyz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Muhammedpyz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats">
     </td>
-    <td width="50%" valign="top">
-      <h3>Top Used Languages</h3>
+    <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammedpyz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>My GitHub Streak</h3>
+    <td align="center" width="50%">
       <img src="https://nirzak-streak-stats.vercel.app/?user=Muhammedpyz&theme=tokyonight&hide_border=true" alt="GitHub Streak">
     </td>
-    <td width="50%" valign="top">
-      <h3>GitHub Trophies</h3>
+    <td align="center" width="50%">
       <img src="https://github-profile-trophy.vercel.app/?username=Muhammedpyz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-### 🔥 Katkı Grafiği
-Geçtiğimiz aydaki kodlama aktivitemin bir görselleştirmesi.
-
+### 🔥 Geliştirme Aktivitesi
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammedpyz&theme=tokyo-night&hide_border=true&hide_title=true" alt="Katkı Grafiği">
 
----
+<br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
+
+</div>
