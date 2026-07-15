@@ -23,7 +23,7 @@
 
 ### About
 
-I build software products end-to-end — from data model to deployment — and I care more about whether a system survives contact with real users than whether it looks good in a demo. My work sits at the intersection of backend engineering, applied security, and product thinking: most of what I ship is designed to run unattended, scale past its first hundred users, and fail safely when something inevitably breaks.
+I build software end-to-end — from data model to deployment — and I care more about whether a system survives contact with real users than whether it looks good in a demo. My work sits at the intersection of backend engineering, applied security, and automation: Spring Boot services on one side, Discord and Telegram bots on the other, all built to run unattended for a long time rather than just to work in a demo.
 
 I'm currently based in Sivas, Turkey, studying Banking and Insurance, and building independently outside the classroom. That combination — formal grounding in financial systems, informal depth in engineering and security — shapes how I approach product decisions: I tend to design for compliance and trust boundaries as a first-class concern, not an afterthought.
 
@@ -48,7 +48,7 @@ I design for the load I don't have yet — queues over synchronous calls, statel
 <td width="33%" valign="top">
 
 **Automation**
-If a task will happen more than twice, it becomes a script, a pipeline, or a workflow. Manual steps are where quality quietly leaks out.
+If a task will happen more than twice, it becomes a script, a bot, or a pipeline — from CI/CD workflows to the Discord and Telegram bots I build for other communities.
 
 </td>
 </tr>
@@ -79,7 +79,9 @@ Security research trains one muscle above all: assume nothing, verify everything
 ### Current Focus
 
 <!-- CURRENT_FOCUS:START -->
-> **Now building:** a subscription-based food delivery platform with a no-commission model for restaurants — full-stack, self-hosted geospatial routing, and a Java/Spring Boot backend designed for multi-tenant scale from day one.
+> **Now building:** Maraş Yemek — a subscription-based, no-commission food delivery platform: full-stack, self-hosted geospatial routing, and a Java/Spring Boot backend designed for multi-tenant scale from day one.
+>
+> **Also building:** Discord and Telegram bots and other automation tooling — mostly private or client work, not yet public on GitHub.
 >
 > **Also exploring:** applied offensive security tooling and automated vulnerability assessment pipelines.
 <!-- CURRENT_FOCUS:END -->
@@ -94,32 +96,48 @@ Security research trains one muscle above all: assume nothing, verify everything
 <tr>
 <td width="50%" valign="top">
 
-**Markasium**
-Brand and product-identity tooling — a foundation for building and managing a coherent product line under one roof.
-<br/><sub><a href="https://github.com/Muhammedpyz?tab=repositories&q=markasium">View repository →</a></sub>
+**Markasium** <sub>(Maraş Yemek)</sub>
+A subscription-based, no-commission food delivery platform — full-stack, with a self-hosted geospatial stack and a Java/Spring Boot backend built for multi-tenant scale.
+<br/><sub>🔒 Private · In development</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**GunsLOL**
-A focused, high-performance web product built for speed and a distraction-free user experience.
-<br/><sub><a href="https://github.com/Muhammedpyz?tab=repositories&q=gunslol">View repository →</a></sub>
+**Ghost Protocol**
+A peer-to-peer communication system built in Rust, running entirely over Tor hidden services.
+<br/><sub>🔒 Private · Completed</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**AI Projects**
-Applied AI systems — retrieval-augmented tooling, agentic workflows, and local-first inference where privacy matters.
-<br/><sub><a href="https://github.com/Muhammedpyz?tab=repositories&q=ai">View repository →</a></sub>
+**SENTINEL**
+An autonomous security scanner built on LangGraph, orchestrating tools like Nuclei, ffuf, and sqlmap for automated vulnerability assessment.
+<br/><sub>🔒 Private · In development</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**Automation**
-Infrastructure-as-code, CI/CD pipelines, and the internal tooling that keeps every other project shipping without manual toil.
-<br/><sub><a href="https://github.com/Muhammedpyz?tab=repositories&q=automation">View repository →</a></sub>
+**Achievement Hunter**
+A Steam progress tracker — Java Spring Boot backend, React frontend, Steamworks4j integration.
+<br/><sub>🔒 Private · In development</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Bots & Automation**
+Discord and Telegram bots — from multi-bot music architectures to workflow and moderation automation, mostly built for other communities.
+<br/><sub>🔒 Private · Ongoing</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**More on GitHub**
+Everything above is private or still in progress — the repositories tab is what's actually public and browsable today.
+<br/><sub><a href="https://github.com/Muhammedpyz?tab=repositories">View repositories →</a></sub>
 
 </td>
 </tr>
@@ -132,7 +150,7 @@ Infrastructure-as-code, CI/CD pipelines, and the internal tooling that keeps eve
 | | |
 |---|---|
 | **Start** | First production code shipped; foundations in backend engineering and Linux systems administration. |
-| **Now** | Building a full-stack food-delivery platform end-to-end while deepening applied security practice. |
+| **Now** | Building Maraş Yemek end-to-end, shipping Discord/Telegram bots on the side, and deepening applied security practice. |
 | **Goals** | Ship products that run for years without babysitting, and contribute meaningfully to open-source security tooling. |
 
 <img src="assets/background.svg" width="100%" alt="">
