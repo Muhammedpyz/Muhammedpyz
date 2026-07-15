@@ -1,0 +1,60 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B0E14"/>
+      <stop offset="1" stop-color="#10151F"/>
+    </linearGradient>
+
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(220 70) rotate(90) scale(260 520)">
+      <stop offset="0" stop-color="#5B8DEF" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#5B8DEF" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(980 190) rotate(90) scale(220 460)">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5B8DEF"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+
+    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5B8DEF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#5B8DEF" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bg)"/>
+  <rect width="1200" height="260" fill="url(#glow1)"/>
+  <rect width="1200" height="260" fill="url(#glow2)"/>
+
+  <!-- fine baseline grid, restrained -->
+  <g stroke="#FFFFFF" stroke-opacity="0.035">
+    <line x1="0" y1="60" x2="1200" y2="60"/>
+    <line x1="0" y1="200" x2="1200" y2="200"/>
+  </g>
+
+  <!-- monogram mark -->
+  <g transform="translate(90,84)">
+    <rect x="0" y="0" width="92" height="92" rx="22" fill="#141A24" stroke="url(#stroke)" stroke-width="1.4"/>
+    <path d="M24 66V26L46 50L68 26V66" stroke="#E6EDF3" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <animate attributeName="stroke" values="#E6EDF3;#A9C4FF;#E6EDF3" dur="6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- wordmark -->
+  <g transform="translate(216,104)" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+    <text x="0" y="0" font-size="40" font-weight="600" fill="#F2F5F9" letter-spacing="0.2">Muhammed Poyraz</text>
+    <text x="0" y="34" font-size="16" font-weight="400" fill="#8B949E" letter-spacing="0.4">SOFTWARE &amp; PRODUCT ENGINEERING</text>
+  </g>
+
+  <!-- accent rule that draws itself in -->
+  <rect x="90" y="216" width="1020" height="1" fill="url(#hair)">
+    <animate attributeName="width" values="0;1020;1020" keyTimes="0;0.6;1" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>

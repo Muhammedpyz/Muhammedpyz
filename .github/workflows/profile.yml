@@ -1,0 +1,28 @@
+name: profile-keepalive
+
+# GitHub disables scheduled workflows on a repository after ~60 days without
+# any commit activity. This job makes one small, harmless commit a month so
+# the metrics / snake / readme-activity workflows above keep running.
+
+on:
+  schedule:
+    - cron: "0 4 1 * *"   # 04:00 UTC on the 1st of every month
+  workflow_dispatch:
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Touch heartbeat file
+        run: |
+          mkdir -p .github/.state
+          date -u +"Last keep-alive: %Y-%m-%dT%H:%M:%SZ" > .github/.state/heartbeat.txt
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: monthly keep-alive"
+          file_pattern: .github/.state/heartbeat.txt

@@ -1,103 +1,173 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=150&section=header&text=Muhammed'in%20Dijital%20Üssüne%20Hoş%20Geldiniz&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner.svg">
+  <img src="assets/banner.svg" alt="Muhammed Poyraz" width="100%">
+</picture>
 
-<a href="https://github.com/Muhammedpyz">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=80&lines=Merhaba,+Ben+Muhammed+👋;Yazılım+Geliştirici;Teknoloji+Tutkunu;Modern+Sistem+Mimarı;Sürekli+Öğrenen..." alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=100000&color=8B949E&center=true&vCenter=true&width=600&lines=Building+ambitious+software+products." alt="tagline" />
 </a>
 
 <br/>
 
-<a href="https://muhammedpyz.github.io">
-  <img src="https://img.shields.io/badge/🌍_PORTFOLYO_SİTEME_GİT-050505?style=for-the-badge&logo=googlechrome&logoColor=00FF41" alt="Website" />
-</a>
-<a href="https://github.com/Muhammedpyz">
-  <img src="https://komarev.com/ghpvc/?username=Muhammedpyz&color=00FF41&style=for-the-badge&label=ZİYARETÇİ" alt="Profile Views" />
-</a>
-
-<br/><br/>
-
-### 📱 Ağa Katıl
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammed-poyraz-46a59426a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/muhammedpyz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://instagram.com/muhammed.pyz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" />
+[![Website](https://img.shields.io/badge/Website-muhammedpyz.me-5B8DEF?style=flat-square&labelColor=0D1117)](https://muhammedpyz.me)
+[![GitHub](https://img.shields.io/badge/GitHub-@Muhammedpyz-A78BFA?style=flat-square&labelColor=0D1117&logo=github&logoColor=E6EDF3)](https://github.com/Muhammedpyz)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-5B8DEF?style=flat-square&labelColor=0D1117&logo=maildotru&logoColor=E6EDF3)](mailto:muhammedpyz466@gmail.com)
+[![Projects](https://img.shields.io/badge/Projects-View_all-A78BFA?style=flat-square&labelColor=0D1117)](https://github.com/Muhammedpyz?tab=repositories)
+[![Blog](https://img.shields.io/badge/Blog-Read_notes-5B8DEF?style=flat-square&labelColor=0D1117)](https://muhammedpyz.me/blog)
 
 </div>
 
-<br/>
+<img src="assets/background.svg" width="100%" alt="">
 
-<details>
-<summary><b>👨‍💻 Hakkımda Daha Fazla Bilgi</b></summary>
-<br/>
+### About
 
-> "Kaliteli kod, sadece makinelerin değil, insanların da okuyabileceği koddur."
+I build software products end-to-end — from data model to deployment — and I care more about whether a system survives contact with real users than whether it looks good in a demo. My work sits at the intersection of backend engineering, applied security, and product thinking: most of what I ship is designed to run unattended, scale past its first hundred users, and fail safely when something inevitably breaks.
 
-Ben yenilikçi, sınırları zorlamayı seven ve modern teknolojilerle sistemler inşa eden bir geliştiriciyim. Sürekli kendini yenileyen algoritmalar, ileri düzey siber güvenlik konseptleri ve performans odaklı mimariler her zaman ilgimi çekmiştir. 
+I'm currently based in Sivas, Turkey, studying Banking and Insurance, and building independently outside the classroom. That combination — formal grounding in financial systems, informal depth in engineering and security — shapes how I approach product decisions: I tend to design for compliance and trust boundaries as a first-class concern, not an afterthought.
 
-- 🔭 Şu anda **İleri Seviye Web & Yazılım Mimarileri** üzerinde çalışıyorum.
-- 🌱 Sürekli **yeni nesil teknolojiler ve algoritmalar** öğreniyorum.
-- 👯 Açık kaynak projelere katkıda bulunmaktan keyif alıyorum.
-- 🤔 Karmaşık sistemlerin basit ve şık çözümlerle nasıl optimize edilebileceği konusunda beyin fırtınası yapmayı severim.
-- 💬 Bana teknoloji, sistem tasarımı veya kodlama hakkında istediğini sorabilirsin.
-</details>
+<img src="assets/background.svg" width="100%" alt="">
 
-<br/>
+### Philosophy
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Clean Architecture**
+Boundaries between business logic and infrastructure are non-negotiable. Frameworks are a detail; the domain model is the product.
+
+</td>
+<td width="33%" valign="top">
+
+**Scalable Systems**
+I design for the load I don't have yet — queues over synchronous calls, stateless services, and data models that don't need a rewrite at 10x.
+
+</td>
+<td width="33%" valign="top">
+
+**Automation**
+If a task will happen more than twice, it becomes a script, a pipeline, or a workflow. Manual steps are where quality quietly leaks out.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**Long-Term Thinking**
+Shipping fast matters, but I optimize for the version of this codebase that exists in two years, not just next week's demo.
+
+</td>
+<td width="33%" valign="top">
+
+**Open Source**
+Public infrastructure deserves public code where possible. I build in the open and expect to both learn from and give back to it.
+
+</td>
+<td width="33%" valign="top">
+
+**Problem Solving**
+Security research trains one muscle above all: assume nothing, verify everything. I bring that instinct into every system I design.
+
+</td>
+</tr>
+</table>
+
+<img src="assets/background.svg" width="100%" alt="">
+
+### Current Focus
+
+<!-- CURRENT_FOCUS:START -->
+> **Now building:** a subscription-based food delivery platform with a no-commission model for restaurants — full-stack, self-hosted geospatial routing, and a Java/Spring Boot backend designed for multi-tenant scale from day one.
+>
+> **Also exploring:** applied offensive security tooling and automated vulnerability assessment pipelines.
+<!-- CURRENT_FOCUS:END -->
+
+<sub>This block is updated by hand as focus shifts — see <code>.github/workflows/readme.yml</code> for the automated activity feed below.</sub>
+
+<img src="assets/background.svg" width="100%" alt="">
+
+### Featured Products
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Markasium**
+Brand and product-identity tooling — a foundation for building and managing a coherent product line under one roof.
+<br/><sub><a href="https://github.com/Muhammedpyz?tab=repositories&q=markasium">View repository →</a></sub>
+
+</td>
+<td width="50%" valign="top">
+
+**GunsLOL**
+A focused, high-performance web product built for speed and a distraction-free user experience.
+<br/><sub><a href="https://github.com/Muhammedpyz?tab=repositories&q=gunslol">View repository →</a></sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**AI Projects**
+Applied AI systems — retrieval-augmented tooling, agentic workflows, and local-first inference where privacy matters.
+<br/><sub><a href="https://github.com/Muhammedpyz?tab=repositories&q=ai">View repository →</a></sub>
+
+</td>
+<td width="50%" valign="top">
+
+**Automation**
+Infrastructure-as-code, CI/CD pipelines, and the internal tooling that keeps every other project shipping without manual toil.
+<br/><sub><a href="https://github.com/Muhammedpyz?tab=repositories&q=automation">View repository →</a></sub>
+
+</td>
+</tr>
+</table>
+
+<img src="assets/background.svg" width="100%" alt="">
+
+### Timeline
+
+| | |
+|---|---|
+| **Start** | First production code shipped; foundations in backend engineering and Linux systems administration. |
+| **Now** | Building a full-stack food-delivery platform end-to-end while deepening applied security practice. |
+| **Goals** | Ship products that run for years without babysitting, and contribute meaningfully to open-source security tooling. |
+
+<img src="assets/background.svg" width="100%" alt="">
+
+### Stats
 
 <div align="center">
 
-### 🐍 GitHub Katkı Yılanı (Auto-Snake)
-*Bu animasyonlu yılan, son bir yıldaki GitHub katkılarımı yiyerek büyüyor!*
-<br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhammedpyz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=5B8DEF&text_color=E6EDF3&icon_color=A78BFA" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammedpyz&layout=compact&hide_border=true&bg_color=0D1117&title_color=5B8DEF&text_color=E6EDF3" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com/?user=Muhammedpyz&hide_border=true&background=0D1117&ring=5B8DEF&fire=A78BFA&currStreakLabel=E6EDF3" alt="Streak stats"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Muhammedpyz&theme=onedark&no-frame=true&margin-w=8&row=1" alt="Trophies"/>
+
+<img src="https://komarev.com/ghpvc/?username=Muhammedpyz&style=flat-square&color=5B8DEF&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Muhammedpyz?style=flat-square&logo=github&label=Followers&color=A78BFA&labelColor=0D1117" alt="Followers"/>
+
+</div>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammedpyz/Muhammedpyz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammedpyz/Muhammedpyz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Muhammedpyz/Muhammedpyz/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/snake-light.svg">
+  <img src="assets/snake.svg" alt="Contribution snake" width="100%">
 </picture>
 
-<br/><br/>
+<img src="assets/metrics.svg" width="100%" alt="Full metrics dashboard">
 
-### 📈 Otomatik GitHub Metrikleri
-*Bu istatistikler GitHub Actions ile her gün otomatik güncellenmektedir.*
-<br/>
-<!-- LOWLIGHTER METRICS WILL AUTO PUSH TO THIS REPO, BUT FALLBACK TO VERCEL FOR NOW -->
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammedpyz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats">
+<img src="assets/background.svg" width="100%" alt="">
 
-<br/><br/>
+### Recent Activity
 
-### 🏆 Başarılar & Streak
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammedpyz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-    </td>
-    <td align="center" width="50%">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Muhammedpyz&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-profile-trophy.vercel.app/?username=Muhammedpyz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-    </td>
-  </tr>
-</table>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-<br/>
-
-### 🔥 Son Etkinlik Grafiği
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammedpyz&theme=tokyo-night&hide_border=true&hide_title=true" alt="Katkı Grafiği">
-
-<br/><br/>
-
-### 📝 Son Blog Yazılarım
-<!-- BLOG-POST-LIST:START -->
-*Henüz bir blog yazısı bulunmuyor, ancak eklendiğinde GitHub Actions ile otomatik olarak buraya yansıyacaktır!*
-<!-- BLOG-POST-LIST:END -->
-
-<br/><br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" width="100%"/>
+<div align="center">
+<img src="assets/footer.svg" width="100%" alt="">
 </div>

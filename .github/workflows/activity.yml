@@ -1,0 +1,26 @@
+name: link-health
+
+# Broken badges and dead links are the fastest way a "premium" profile stops
+# looking premium. This runs weekly and opens an issue if anything 404s.
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # every Monday, 06:00 UTC
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - "README.md"
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: lycheeverse/lychee-action@v2
+        with:
+          args: >
+            --no-progress
+            --accept 200,201,202,203,204,206,301,302,403
+            README.md
+          fail: true
