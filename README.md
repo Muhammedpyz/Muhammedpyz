@@ -162,20 +162,10 @@ Everything above is private or still in progress — the repositories tab is wha
 
 <img src="https://streak-stats.demolab.com/?user=Muhammedpyz&hide_border=true&background=0D1117&ring=5B8DEF&fire=A78BFA&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=5B8DEF&sideLabels=8B949E&dates=8B949E" alt="Streak stats"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammedpyz&theme=onedark&no-frame=true&margin-w=8&row=1" alt="Trophies"/>
-
-<img src="https://komarev.com/ghpvc/?username=Muhammedpyz&style=flat-square&color=5B8DEF&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Muhammedpyz&style=flat-square&color=5B8DEF&label=Profile+Views" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/Muhammedpyz?style=flat-square&logo=github&label=Followers&color=A78BFA&labelColor=0D1117" alt="Followers"/>
 
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/snake-light.svg">
-  <img src="assets/snake.svg" alt="Contribution snake" width="100%">
-</picture>
-
-<img src="assets/metrics.svg" width="100%" alt="Full metrics dashboard">
 
 <img src="assets/background.svg" width="100%" alt="">
 
