@@ -1,9 +1,7 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner.svg">
-  <img src="assets/banner.svg" alt="Muhammed Poyraz" width="100%">
-</picture>
+# Muhammed Poyraz
+<sub>SOFTWARE &amp; PRODUCT ENGINEERING</sub>
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=100000&color=8B949E&center=true&vCenter=true&width=600&lines=Building+ambitious+software+products." alt="tagline" />
@@ -187,5 +185,9 @@ Everything above is private or still in progress — the repositories tab is wha
 <!--END_SECTION:activity-->
 
 <div align="center">
-<img src="assets/footer.svg" width="100%" alt="">
+
+<sub>Thanks for reading — building in public, one release at a time.</sub>
+<br/>
+<sub>**muhammedpyz.me**</sub>
+
 </div>
