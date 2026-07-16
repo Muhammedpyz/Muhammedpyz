@@ -159,10 +159,10 @@ Everything above is private or still in progress — the repositories tab is wha
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhammedpyz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=5B8DEF&text_color=E6EDF3&icon_color=A78BFA" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammedpyz&layout=compact&hide_border=true&bg_color=0D1117&title_color=5B8DEF&text_color=E6EDF3" alt="Top languages"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Muhammedpyz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=5B8DEF&text_color=E6EDF3&icon_color=A78BFA" alt="GitHub stats"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Muhammedpyz&layout=compact&hide_border=true&bg_color=0D1117&title_color=5B8DEF&text_color=E6EDF3" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com/?user=Muhammedpyz&hide_border=true&background=0D1117&ring=5B8DEF&fire=A78BFA&currStreakLabel=E6EDF3" alt="Streak stats"/>
+<img src="https://streak-stats.demolab.com/?user=Muhammedpyz&hide_border=true&background=0D1117&ring=5B8DEF&fire=A78BFA&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=5B8DEF&sideLabels=8B949E&dates=8B949E" alt="Streak stats"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Muhammedpyz&theme=onedark&no-frame=true&margin-w=8&row=1" alt="Trophies"/>
 
