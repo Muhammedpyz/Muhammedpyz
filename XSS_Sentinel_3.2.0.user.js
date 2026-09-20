@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         XSS Sentinel 3.0.1
+// @name         XSS Sentinel 3.2.0
 // @namespace    xss-sentinel
 // @version      3.2.0
 // @description  Host-scoped web security assessment framework: crawler, runtime tracing, endpoint/resource discovery, security controls, technology/dependency fingerprinting, OSV/NVD/GitHub/CISA/EPSS intelligence and passive security references.
